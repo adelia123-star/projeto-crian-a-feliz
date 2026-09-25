@@ -1,0 +1,14 @@
+{
+  "name": "projeto-crianca-feliz",
+  "version": "1.0.0",
+  "description": "API do Projeto Criança Feliz",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Adélia e Danniele",
+  "license": "ISC"
+}
